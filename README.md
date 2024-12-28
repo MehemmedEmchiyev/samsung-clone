@@ -1,4 +1,4 @@
-# Project Name
+# Samsung Clone
 This project includes a comprehensive CSS stylesheet designed for modern and user-friendly web designs.
 
 ## Features
