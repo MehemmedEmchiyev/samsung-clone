@@ -1,5 +1,4 @@
 # Samsung Clone
-This project includes a comprehensive CSS stylesheet designed for modern and user-friendly web designs.
 
 ## Features
 - **JavaScript-Free Hamburger Menu**: A fully CSS-designed hamburger menu that works without JavaScript.
